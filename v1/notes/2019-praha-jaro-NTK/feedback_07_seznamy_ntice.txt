@@ -28,5 +28,6 @@ Zelené lístečky:
 - Asi nic. Část se mohla brát na předešlé hodině, aby se to stíhalo. 
 
 Za organizátorky:
+- Průběh hodiny: Michal připravil materiály a cvičení k seznamům na Githubu (https://github.com/VecnyOptimista/pyladies-2019-l) a nechal ty, co byly na Git workshopu, repozitář naklonovat. Ostatní si ho stáhly jako zip. Poté se instaloval plugin "Scripts" do Atomu a pak se jelo podle předpřipravených souborů. 
 - Historicky nejnižší účast (11 chybějících, z toho 9 neomluvených) - asi díky nadcházejícím Velikonocím a volnu
 - Úvodní stahování z Githubu a instalace pluginu Scripts do Atomu zabralo trochu víc času na začátku (a byl to při pohledu zvenku trochu chaos), ale dle zpětné vazby to holky ocenily
