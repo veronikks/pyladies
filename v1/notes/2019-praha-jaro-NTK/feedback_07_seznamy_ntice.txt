@@ -1,0 +1,32 @@
+Hodina z 18. dubna - hlavní kouč Michal Seménka
+Zelené lístečky:
++ Líbilo se mi, jak byla dnešní hodina připravená. Do předem připravených souborů se jen dopisovalo, což ušetřilo hodně času při tak rozsáhlém tématu. Těším se na praktické využití. Lenka
++ SUPER! Předpřipravené materiály v editore sú úžasná pomocka, pretože mne osobne robí stále problém napísať si kvalitné poznámky. Takto to je pokope a ak by to šlo aj v budúcnosti, bolo by to super. Výklad super, nebol strach ani sa pýtať :) ďakujem za super hodinu.
++ Pěkné školení & pečlivý lektor & super podklady
++ Super připravené. Super úkoly. Super tempo. Vše srozumitelně vysvětleno.
++ Materiály na GitHubu - nemusely jsme ztrácet čas přepisováním úkolu do počítače na úkor dávání pozor. Srozumitelný výklad.
++ Super výklad, moc se mi líbí, že materiály byly připravené, takže jsem se s přepisováním nikde nezasekla. 
++ Velmi srozumitelné - děkuji!
++ Super :) 
++ Ten soubor skriptů byl super - mohla jsem vše lépe sledovat
++ Dobře připravená hodina skrz soubory + příklady na procvičení
++ Jedna z nej hodin!!! :-) Připravené kusy kódu a zadání úkolů ke stažení kódu byl boží nápad !! 
++ Bylo moc efektivní pracovat s předem připravenými soubory.
++ Velmi dobře strukturované a připravené.
++ Skvělé! Oceňuji, že lektor tak složitou část dobře vysvětlil. Nejvíc nejlepší byly předpřipravené strukturované materiály. Zavedla bych pro všechny další lekce!!!
++ Děkuji moc za předpřipravené materiály na lekci. Domácí úkoly na opakování mi tentokrát přišly spíše lehčí - motivuje mne to víc, než když je 1. DÚ těžký a skoro s ním nehnu.
+
+
+Červené lístečky:
+- Strašně zmatené, hrozně přeskakování. Vůbec jsem netušila, kde jsme - bylo by fajn oznamovat otevíraný příklad. Není vidět výstup přes plugin skript - hrozně malé písmo. 
+- Občas trochu zmatené (hlavně začátek a stáhování).
+- Zadávání instrukcí (stažení souborů na začátku) mi moc nestačí ústně, rychle se ztratím, co odkud.
+- Spíše mi vyhovuje, když nemáme tato předpřipravené materiály, ale píšeme jako to bylo v předešlých hodinách. 
+- Akorát pořád moc nechápu, k čemu jsou ty ntice. Oprava: tak už chápu.
+- Ntice to trochu zamotaly
+- Začínáme brát sofistikovanější látku a bylo by super začít uvádět příklady "ze života": karty, kostky, souřadnice apod.
+- Asi nic. Část se mohla brát na předešlé hodině, aby se to stíhalo. 
+
+Za organizátorky:
+- Historicky nejnižší účast (11 chybějících, z toho 9 neomluvených) - asi díky nadcházejícím Velikonocím a volnu
+- Úvodní stahování z Githubu a instalace pluginu Scripts do Atomu zabralo trochu víc času na začátku (a byl to při pohledu zvenku trochu chaos), ale dle zpětné vazby to holky ocenily
