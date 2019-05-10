@@ -1,0 +1,26 @@
+Hodina z 9. května - hlavní kouč Vašek Chalupníček
+
+Zelené lístečky:
++ Super, dnes bola hodina fakt dobrá
++ Skvělá opakovací hodina, díky
++ Bylo to hodně interaktivní
++ Bylo to super, aspoň jsme se trošičku rozpovídaly :-) P.S. Smysl tříd jsem teda ještě nepochopila, ale snad příště :-)
++ Václav je fajn, líbilo se mi přiblížení praxi. Super hodina. Akorát bych ráda probrala řešení úkolů, které jsou nutné k finálnímu projektu.
++ Simulování konkrétního příkladu a hezky postupně vysvětlená logika a postup
++ Líbila se mi ta část s návrhem postupu apod. (prostě jak uvažovat a postupovat) a příklady z "reálného" života
++ Super rozbor pro lepší představu co dělám 
++ První část skvěle vysvětlena, škoda, že nezbyl čas na druhou
++ Oceňuju snahu vysvětlit obecnosti a základy, jen to bylo trochu dlouhé. Možná bych po krátkém úvodu ukázala příklad a na něm pak ukázala, co je co (třída, objekt, funkce apod.)
++ Vtipy z praxe
+
+Červené lístečky:
+- Hodně povídací, spíš bych víc zkoušela praktické příklady
+- Opakování moc pomalé, nové věci moc rychlé a zmatené
+- První hodina a půl na mě moc pomalé tempo (nudila jsem se)
+- Odbíhání od tématu a přeskakování ("haha") mezi myšlenkami
+- Zmatené :-(
+- Airbnb dobré, jen trošku lépe připravit!
+- Obecně mám radši, když je vše v Atomu (příkazovou řádku si nemůžu uložit), ale to je jen detail :) 
+
+Za organizátorky:
+- Prvních cca 90 min bylo opakování, nejdříve obecné a pak na příkladu přihlašování pro AirBnB, na třídy tak zbylo méně času
