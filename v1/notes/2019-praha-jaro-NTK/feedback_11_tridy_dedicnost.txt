@@ -1,0 +1,18 @@
+Hodina z 16. května - hlavní kouč Vašek Chalupníček
+
+Zelené lístečky:
++ Dneska to bylo fajn! Vše srozumitelné, třídy se mi líbí.
++ Super, perfektně připravené.
++ Dnes to bylo super, Vašek to umí udělat zábavné... Fajn příklady.
++ Přestože jsem ve skluzu, bylo to vysvětleno moc dobře, takže jsem téměř dohnala poslední lekci, kde jsem nemohla být. Moc se mi líbí příklady ze života (e-shop). Díky! 
++ Skvěle vysvětleno, super opáčko na konci hodiny. 1*
++ Opakování na začátku a na konci.
++ Kreslení diagramu na tabuli - pomáhá to pochopení.
++ Super, že Vašek nás hodně zatiahol do hodiny aj zkúšaním a hodina bola dynamická.
+
+
+Červené lístečky:
+-  Hodina super, látce rozumím. Ale pořád nemám spoustu úkolů, třeba ty piškvorky - byla bych ráda, pokud by se někdy probralo řešení - díky :) 
+
+Za organizátorky:
+- Na konci hodiny proběhl piškvorkový turnaj, kterého se nakonec zúčastnilo 9 holek a hodně je to bavilo. Před začátkem ale bylo třeba většinu kódů alespoň trochu upravit, aby šlo program na turnaj spustit (hodně holkám chyběla funkce tah, importy random, nebo měly symbol pro počítač napevno daný apod). Pro příště by tedy bylo dobré lépe specifikovat, jak má odevzdávaný soubor vypadat a možná i proti jakým testům se bude pouštět, co je "rozumná" výjimka apod.
