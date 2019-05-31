@@ -1,0 +1,25 @@
+Hodina z 30. května - hlavní kouč Michael Bláha
+
+Zelené lístečky:
++ Super! Datová analýza byla moje primární motivace proč se naučit Python. Díky!!!
++ Super hodina! Zajímám se o datovou analýzu, a tohle mě mile nakoplo :) Díky za tento super kurz! Uvidíme se na Pyvu.
++ Díky! Téma se mi hodí, s daty pracuji. Jako úvod to bylo dobré. Super bude, jestli k tomu bude více informací i v materiálech na webu do budoucna.  Hlavně vysvětlit praktické využití a tak. 
++ Hodně zajímavé téma, zasloužilo by si samostatný celodenní workshop.
++ Pro ukázku jak pracovat s daty to bylo určitě pěkné, ale téma by si určitě zasloužilo delší dobu (to ale určitě proto, že mě datová analýza baví :)).
++ Datová analýza byla boží, moc díky za rychlokurz. Bylo to docela rychlé, ale nepřišlo mi to moc těžké, takže super!
++ O datách som mala akurát predstavu, ale žiádné skúsenosti. Hodina bola super úvod a moju predstavu to splnilo :)
++ Super! Za mňa by som šla kludně viecej do hlubky, ale to asi preto, že som už data spracovávala, ale v inom program. jazyku. Preto ale myslím, že super úvod.  
++ Michal byl super. Tahle lekce mi přišla 100% přínosná, nemám zkušenosti s analýzou dat mimo Excel a tohle mi přišlo vážně super. Díký za všechno! 
++ Moc děkuju! Jsem ráda, že jste datovou analýzu zahrnuli do témat Pyladies :) 
++ Hodina je super, jen lehce zpomalit mluvu. Občas jsem stěží stíhala.
+
+
+Červené lístečky:
+- Trochu zpomalit tempo a více času na procvičování. Lepší příprava lektora.
+- Hodina bola pekne koncipovaná, ale trochu chýbal úvod k tomu, čo presne je pandas, čo notebook, načo to všetko používame, prípadne súvislosti s Pythonom, Atomom apod.
+- Chybí domácí úkoly na datovou analýzu :) 
+
+
+Za organizátorky:
+- Jednalo se o poslední hodinu v NTK (mimo závěrečného sobotního hackatonu, kam jde z obou kurzů celkem jen asi 13 holek), a účast byla z celého běhu nejnižší: přišlo jen 12 holek plus jedna nahrazující z Olšanky. 
+- Jelo se dle: https://github.com/NevermoreX0/pyladies-datova-analyza-s-pandas, holky si repozitář na začátku hodiny buď naklonovaly, nebo stáhly jako zip. 
